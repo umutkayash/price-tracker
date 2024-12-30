@@ -75,7 +75,6 @@ python main.py
 
 - Support for additional e-commerce sites.
 - Advanced price filtering and history tracking.
-- Multi-language support.
 
 ## License
 
