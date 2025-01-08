@@ -1,5 +1,5 @@
 
-# Price Tracker Bot
+# Telegram Product Price Tracker Bot
 
 A Telegram bot that helps users track prices of products on various websites. Users can add product URLs with a target price, and the bot will notify them when the product price drops below or matches the target price.
 
